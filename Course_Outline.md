@@ -16,7 +16,7 @@
   - Mostly , Bi-variate analysis. We compare correlation of Two variables i.e:- Salary Hikes vs. Attrition.
   - Certain cases of Multi-variate analysis. All variable correlation plots.
 - **Predictive Statistics**
-  - Classification of independent variable basis dependent variables.
+  - Classification of dependent variable basis independent variables.
   - Ensemble classifiers.
   - ____________TBD
 
